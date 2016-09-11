@@ -10,3 +10,5 @@ http://www.seleniumhq.org/
 #Bottle - microweb framework I use for my website
 http://bottlepy.org/
 
+#Pytest - python testing framework
+
