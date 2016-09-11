@@ -11,4 +11,5 @@ http://www.seleniumhq.org/
 http://bottlepy.org/
 
 #Pytest - python testing framework
+http://doc.pytest.org/en/latest/getting-started.html
 
