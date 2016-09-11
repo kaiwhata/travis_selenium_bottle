@@ -1,6 +1,10 @@
 # travis_selenium_bottle
 Workspace for playing with all the above
 
+Git commit and push commands for when I inevitably forget them:
+`git commit -m 'Testing Travis CI'`
+`git push`
+
 #Travis CI - Automated testing framework
 https://travis-ci.org/
 
